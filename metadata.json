@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generator",
+  "description": "A modern platform to generate stunning AI images. Users can enter prompts, select image styles, and manage their creations in a personal library. Includes a credit system and options to purchase more credits.",
+  "requestFramePermissions": []
+}
